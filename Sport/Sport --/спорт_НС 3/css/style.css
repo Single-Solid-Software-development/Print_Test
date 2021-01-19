@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+@page {
+  margin: 0;
+  size: A4;
+}
+.page {
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0 4px 5px rgba(75, 75, 75, 0.2);
+  outline: 0;
+  height: 29.7cm;
+  width: 21cm;
+  padding: 15px;
+  background-image: url(../img/F-16_1.png);
+  background-size: cover;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+td{
+  font-size: 14px;
+  padding: 5px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+span{
+  background-color: yellow;
+}
+.layout{
+  border: 1px solid green;
+  padding: 7px 7px 200px;
+}
+.content{
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 170px;
+  }
+.spec{
+    text-align: center;
+}
+.table01 td, .table02 td, .table03 td, .table04 td{
+  border-top: 0;
+}
+.td_name{
+  width: 270px;
+}
+.italic{
+  font-style: italic;
+}
+.same_width{
+  width: 150px;
+}
+.line{
+  width: 605px;
+}
+.td_name01{
+  width: 190px;
+}

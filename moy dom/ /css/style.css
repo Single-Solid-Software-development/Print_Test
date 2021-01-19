@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@page {
+    margin: 0;
+    size: A4;
+}
+.page {
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 4px 5px rgba(75, 75, 75, 0.2);
+    outline: 0;
+    height: 29.7cm;
+    width: 21cm;
+    padding: 15px;
+    background-image: url(../img/F-16_1.png);
+    background-size: cover;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+}
+.content{
+    margin-top: 170px;
+}
+.title{
+    text-align: center;
+    font-size: 16px;
+    font-family:  "Times New Roman", serif ;
+    margin-bottom: 15px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th{
+    font-size: 10px;
+    padding: 2px 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.foto__block{
+    text-align: center;
+}
+.foto__block img{
+    width: 120px;
+    height: 30px;
+    display: inline-block;
+}
+.spec{
+    text-align: center;
+}
+.nopadding{
+    padding: 0;
+}
+.tabel05{
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+}
+.table01{
+    border-top: 0;
+}
+.table1{
+    width: 37px;
+}
+.table2{
+    width: 150px;
+}
+.table3{
+    width: 105px;
+}
+.table4{
+    width: 145px;
+}
+.table5{
+    width: 115px;
+}
+.table5{
+    width: 145px;
+}
+.tabel__underline{
+    background-color: yellow;
+    display: inline-block;
+    word-break: break-all;
+}
+.squery{
+    width: 15px;
+    height: 15px;
+    border: 1px solid #000;
+    display: inline-block;
+    margin-bottom: -3px;
+    margin-right: 15px;
+}
+.subtitle{
+    font-size: 12px;
+    text-align: center;
+}
+.green th{
+    border-color: #008000;
+    background-color: #92D050;
+}
+.green td{
+    border-color: #008000;
+}
+.title2{
+    font-size: 18px;
+    text-align: center;
+    margin: 5px 0;
+}
+.template td{
+    height: 24px;
+    word-break: break-all;
+}
+.head__table td{
+    font-size: 12px;
+}
