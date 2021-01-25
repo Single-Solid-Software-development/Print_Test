@@ -225,7 +225,7 @@ td{
     
 }
 .validity .year_to{
-    margin-left: 12px;
+    margin-left: 20px;
 }
 .validity .day_to {
     width: 30px;
@@ -264,7 +264,7 @@ td{
 .insurer_name td, .insured_name td {
     width: 100%;
     height: 0.43cm;
-    margin-top: 20px;
+    margin-top: auto;
     margin-left: 13px;
     border: solid 1px;
     display: flex;
@@ -274,7 +274,7 @@ td{
     width: 100%;
     height: 60px;
     display: flex;
-    letter-spacing: 21px;
+    letter-spacing: 19px;
     font-size: 18px;
 }
 .insured_phone td {
@@ -282,43 +282,36 @@ td{
     height: 30px;
     border: solid 1px;
     margin-top: auto;
-    margin-left: auto;
+    margin-left: 143px;
     display: flex;
     align-items: center;
-    padding-left: 10px
+    padding-left: 7px;
 }
 .auto_info {
     width: 100%;
     height: 123px;
     display: flex;
     text-align: center;
-    position: relative;
 }
 .auto_info td {
-    margin-top: 68px;
+    margin-top: 80px;
     height: 49px;
     border: solid 1px;
-    position: absolute;
 }
 .auto_info .brand {
-    width: 120px;
-    left: 5px;
+    width: 123px;
 }
 .auto_info .build_year {
-    width: 62px;
-    left: 125px;
+    width: 63px;
 }
 .auto_info .engine_id {
     width: 91px;
-    left: 187px;
 }
 .auto_info .carcase_id {
     width: 106px;
-    left: 278px;
 }
 .auto_info .car_id {
     width: 110px;
-    left: 384px; 
 }
 .insured_job {
     width: 100%;
