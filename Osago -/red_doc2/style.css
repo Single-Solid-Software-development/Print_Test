@@ -210,12 +210,15 @@ td {
 .relative_name {
     margin-left: auto;
     width: 39.5%;
+    text-align: center;
 }
 .relative_licence {
     width: 28.5%;
+    text-align: center;
 }
 .relative_level {
     width: 26%;
+    text-align: center;
 }
 .body_space {
     height: 50px;
@@ -241,6 +244,7 @@ td {
 .with_words {
     width: 43%;
     font-size: 10px;
+    text-align: center;
 }
 .regional_info {
     height: 194px;
@@ -249,23 +253,23 @@ td {
 .regional_info td{
     top: 12px;
     position: absolute;
+    font-size: 11px;
+    font-weight: bold;
+    padding-top: 40px;
 }
 .region {
     width: 24.7%;
     margin-left: auto;
-    font-size: 9px;
     padding: 3px;
     
 }
 .region_unit {
     width: 30.3%;
-    font-size: 9px;
     padding: 3px;
     left: 121px;
 }
 .addresses {
     width: 46%;
-    font-size: 9px;
     padding: 3px;
     left: 270px;
 }
@@ -300,7 +304,7 @@ td {
     margin-left: auto;
     margin-top: auto;
     font-size: 10px;
-    top: 34px;
+    top: 32px;
     text-align: center;
     right: 56px;
 }
@@ -310,7 +314,7 @@ td {
     margin-top: auto;
     font-size: 10px;
     right: -5px;
-    top: 34px;
+    top: 32px;
     text-align: center;
 
 }
@@ -353,14 +357,14 @@ td {
     margin-left: auto;
     margin-right: 7px;
     right: 130px;
-    bottom: -30px;
+    bottom: -28px;
 }
 .date .month {
     width: 75px;
     margin-right: 12px;
     text-align: center;
     right: 42px;
-    bottom: -30px;
+    bottom: -28px;
 }
 .date .year {
     width: 25px;

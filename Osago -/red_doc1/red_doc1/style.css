@@ -279,10 +279,10 @@ td{
 }
 .insured_phone td {
     height: 30px;
-    width: 29px;
+    width: 29.55px;
     border: solid 1px;
     border-left: 0;
-    margin-top: auto;
+    margin-top: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
