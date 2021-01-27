@@ -80,9 +80,10 @@ td, th{
     width: 145px;
 }
 .tabel__underline{
-    background-color: yellow;
+    border-bottom: 1px solid #000;
     display: inline-block;
     word-break: break-all;
+    height: 12px;
 }
 .squery{
     width: 15px;
