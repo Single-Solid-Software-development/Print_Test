@@ -173,7 +173,8 @@ input[type=number] {
     background-size: cover;
 }
 table{
-    width: 100.5%;
+    width: 499px;
+    overflow: hidden;
     height: 100%;
     margin: 0;
     padding: 0;
@@ -276,10 +277,13 @@ td{
     display: flex;
     font-size: 18px;
     padding-left: 140px;
+    position: relative;
 }
 .insured_phone td {
-    height: 30px;
-    width: 29.55px;
+    position: absolute;
+    bottom: 0;
+    height: 8mm;
+    width: 8mm;
     border: solid 1px;
     border-left: 0;
     margin-top: 32px;
