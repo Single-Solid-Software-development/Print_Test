@@ -60,6 +60,16 @@ input[name=date_to__year]{
     left: 81%;
     max-width: .5cm;
 }
+.block{
+    position: absolute;
+    width: 2cm;
+    border: 1px solid #000;
+    background-color: transparent;
+    font-family: sans-serif;
+    word-break: break-all;
+    font-size: 12px;
+
+}
 input[name=insurance_giver__company]{
     top: 31.5%;
     left: 8.5%;
