@@ -57,7 +57,7 @@ input[name=date_to__month]{
 }
 input[name=date_to__year]{
     top: 28.5%;
-    left: 81%;
+    left: 81.5%;
     max-width: .5cm;
 }
 .block{
@@ -186,4 +186,5 @@ input[name=who_can_drive__relation_type]{
     top: 27%;
     left: 58%;
     width: 2.8cm;
+    text-align: center;
 }
