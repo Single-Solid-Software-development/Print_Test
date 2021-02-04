@@ -174,7 +174,7 @@ input[type=number] {
 }
 table{
     width: 499px;
-    overflow: hidden;
+    overflow-x: hidden;
     height: 100%;
     margin: 0;
     padding: 0;
@@ -289,7 +289,7 @@ td{
     margin-top: 32px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
     padding: 0;
 }
 .insured_phone td:first-child{
@@ -308,6 +308,7 @@ td{
     display: flex;
     align-items: center;
     justify-content: center;
+    word-break: break-all;
 }
 .auto_info .brand {
     width: 123px;
