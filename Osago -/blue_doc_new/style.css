@@ -219,9 +219,6 @@ td {
     font-weight: bold;
 }
 
-.tdbottom{
-    border-bottom: 1px solid black;
-}
 .tdright{
     border-right: 0;
     text-align: center;
