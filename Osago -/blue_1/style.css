@@ -59,7 +59,7 @@ input[name=date_to__month]{
     text-align: center;
 }
 input[name=date_to__year]{
-    top: 28.5%;
+    top: 28.9%;
     left: 81.5%;
     max-width: .5cm;
 }
@@ -84,7 +84,7 @@ input[name=insurance_owner__fio]{
 }
 .insurance_owner__phone{
     position: absolute;
-    top: 40.9%;
+    top: 41.4%;
     left: 31%;
     width: 11cm;
     font-family: Lato;
@@ -115,7 +115,7 @@ input[name=tranport_info__gov_number]{
     width: 2.6cm;
 }
 input[name=owner__work_type]{
-    top: 58.5%;
+    top: 59%;
     left: 43%;
     width: 7.4cm;
 }
@@ -129,31 +129,31 @@ input[name=owner__transport_region]{
     font-size: 11px;
 }
 .family-item.item-1{
-    top: 75%;
+    top: 75.8%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-2{
-    top: 81.1%;
+    top: 81.9%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-3{
-    top: 87.5%;
+    top: 88.3%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-4{
-    top: 93.8%;
+    top: 94.6%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-5{
-    top: 100%;
+    top: 100.8%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
