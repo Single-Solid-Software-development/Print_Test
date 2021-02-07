@@ -84,7 +84,7 @@ input[name=insurance_owner__fio]{
 }
 .insurance_owner__phone{
     position: absolute;
-    top: 40.5%;
+    top: 40.9%;
     left: 31%;
     width: 11cm;
     font-family: Lato;
@@ -120,7 +120,7 @@ input[name=owner__work_type]{
     width: 7.4cm;
 }
 input[name=owner__transport_region]{
-    top: 62.8%;
+    top: 63.3%;
     left: 43%;
     width: 7.4cm;
 }
@@ -141,19 +141,19 @@ input[name=owner__transport_region]{
     min-height: 1cm;
 }
 .family-item.item-3{
-    top: 87.1%;
+    top: 87.5%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-4{
-    top: 93.2%;
+    top: 93.8%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
 }
 .family-item.item-5{
-    top: 99.4%;
+    top: 100%;
     left: 14%;
     width: 100%;
     min-height: 1cm;
