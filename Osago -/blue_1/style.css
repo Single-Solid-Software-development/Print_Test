@@ -22,21 +22,19 @@ body{
     background-repeat: no-repeat;
     box-sizing: unset;
     position: relative;
+    font-weight: bold;
 }
 input{
     border: none;
     background: transparent;
-    /*outline: 1px solid black;*/
     width: auto;
     position: absolute;
-    outline: none;
+    font-weight: bold;
 }
-
 input[name=date_from__day]{
     top: 28.5%;
     left: 8.5%;
     max-width: .5cm;
-    text-align: center;
 }
 input[name=date_from__month]{
     top: 28.5%;
@@ -48,13 +46,11 @@ input[name=date_from__year]{
     top: 28.5%;
     left: 33%;
     max-width: .5cm;
-    text-align: center;
 }
 input[name=date_to__day]{
     top: 28.5%;
     left: 57.5%;
     max-width: .5cm;
-    text-align: center;
 }
 input[name=date_to__month]{
     top: 28.5%;
@@ -66,12 +62,10 @@ input[name=date_to__year]{
     top: 28.5%;
     left: 81.5%;
     max-width: .5cm;
-    text-align: center;
 }
 .block{
     position: absolute;
     width: 2cm;
-    /*border: 1px solid #000;*/
     background-color: transparent;
     font-family: sans-serif;
     word-break: break-all;
@@ -90,34 +84,33 @@ input[name=insurance_owner__fio]{
 }
 .insurance_owner__phone{
     position: absolute;
-    top: 41%;
+    top: 40.5%;
     left: 31%;
     width: 11cm;
-    /*outline: 1px solid red;*/
     font-family: Lato;
 }
 input[name=tranport_info__model]{
-    top: 53.8%;
+    top: 54%;
     left: 6.5%;
     width: 2.7cm;
 }
 input[name=tranport_info__year]{
-    top: 53.8%;
+    top: 54%;
     left: 28%;
     width: 1.2cm;
 }
 input[name=tranport_info__engine_number]{
-    top: 53.8%;
+    top: 54%;
     left: 39%;
     width: 2cm;
 }
 input[name=tranport_info__shassi_number]{
-    top: 53.8%;
+    top: 54%;
     left: 55%;
     width: 2.5cm;
 }
 input[name=tranport_info__gov_number]{
-    top: 53.8%;
+    top: 54%;
     left: 74%;
     width: 2.6cm;
 }
@@ -127,7 +120,7 @@ input[name=owner__work_type]{
     width: 7.4cm;
 }
 input[name=owner__transport_region]{
-    top: 63%;
+    top: 62.8%;
     left: 43%;
     width: 7.4cm;
 }
