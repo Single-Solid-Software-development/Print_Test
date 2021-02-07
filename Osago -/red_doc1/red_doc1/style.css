@@ -199,7 +199,6 @@ td{
     padding: 0;
     margin-left: 16px;
     outline: none;
-    border: solid 1px;
     background: none;
     text-align: center;
     font-size: 11px;
@@ -208,7 +207,6 @@ td{
     width: 89px;
     padding: 0;
     margin-left: 8px;
-    border: solid 1px;
     outline: none;
     background: none;
     text-align: center;
@@ -218,7 +216,6 @@ td{
 .validity .year_from, .validity .year_to {
     width: 24px;
     padding: 0;
-    border: solid 1px;
     outline: none;
     margin-left: 13px;
     background: none;
@@ -233,7 +230,6 @@ td{
     padding: 0;
     margin-left: 114px;
     outline: none;
-    border: solid 1px;
     text-align: center;
     background: none;
     font-size: 11px;
@@ -247,7 +243,6 @@ td{
     width: 81px;
     padding: 0;
     margin-left: 8px;
-    border: solid 1px;
     outline: none;
     background: none;
     text-align: center;
@@ -267,7 +262,6 @@ td{
     height: 0.43cm;
     margin-top: auto;
     margin-left: 13px;
-    border: solid 1px;
     display: flex;
     align-items: flex-end;
 }
@@ -284,7 +278,6 @@ td{
     bottom: 0;
     height: 8mm;
     width: 8mm;
-    border: solid 1px;
     border-left: 0;
     margin-top: 32px;
     display: flex;
@@ -293,7 +286,6 @@ td{
     padding: 0;
 }
 .insured_phone td:first-child{
-    border-left: 1px solid;
 }
 .auto_info {
     width: 100%;
@@ -304,7 +296,6 @@ td{
 .auto_info td {
     margin-top: 80px;
     height: 49px;
-    border: solid 1px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -335,7 +326,6 @@ td{
     height: 0.43cm;
     margin-top: auto;
     margin-left: auto;
-    border: solid 1px;
 }
 .insured_job_add {
     width: 100%;
