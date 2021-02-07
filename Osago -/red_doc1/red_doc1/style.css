@@ -226,7 +226,7 @@ td{
     
 }
 .validity .year_to{
-    margin-left: 20px;
+    margin-left: 11px;
 }
 .validity .day_to {
     width: 30px;
@@ -296,13 +296,14 @@ td{
     border-left: 1px solid;
 }
 .auto_info {
-    width: 100%;
+    width: 99%;
     height: 123px;
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 .auto_info td {
-    margin-top: 80px;
+    margin-top: 72px;
     height: 49px;
     border: solid 1px;
     display: flex;
@@ -311,7 +312,7 @@ td{
     word-break: break-all;
 }
 .auto_info .brand {
-    width: 123px;
+    width: 119px;
 }
 .auto_info .build_year {
     width: 63px;
